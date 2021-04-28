@@ -7,7 +7,7 @@ Read more about the project: https://github.com/fatedier/frp
 
 # How to use?
 
-1. Add a frpc.int configuration file to /share/frp directory
+1. Add a frpc.int configuration file to /config/frp directory
 2. Run frps on remote server with public ip
 3. Start Hass.io addon
 
